@@ -4,7 +4,7 @@ collaborating with UI/UX design teams to execution of functional
 specifications for websites. Aiming to take on new challenges
 and utilize my coding and debugging skills for developing new features
 and enhance the overall user experience.
- [Resume](https://drive.google.com/file/d/1dDB42jveG6O0Ipdg1j17GSEwFDLm5Q1y/view?usp=sharing)
+ [Resume](https://drive.google.com/file/d/1KPSkm8rjAfeE_KTu9mwsA4UZofOgdgH2/view?usp=sharing)
 
 
 
