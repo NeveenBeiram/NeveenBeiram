@@ -1,6 +1,12 @@
 ### Hi there 👋
- My name is Neveen Beiram, I am a Software Engineer who graduated from Hashemite University, and currently I am a full-stack web developer.
+  Highly accomplished and user-focused Front-end Developer adept in
+collaborating with UI/UX design teams to execution of functional
+specifications for websites. Aiming to take on new challenges
+and utilize my coding and debugging skills for developing new features
+and enhance the overall user experience.
  [Resume](https://drive.google.com/file/d/1dDB42jveG6O0Ipdg1j17GSEwFDLm5Q1y/view?usp=sharing)
+
+
 
  - 📫 How to reach me : 
     *  neveenbeiram@yahoo.com
