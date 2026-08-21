@@ -11,7 +11,7 @@ and enhance the overall user experience.
 
 
  - 📫 How to reach me : 
-    *  neveenbeiram@yahoo.com
+    *  neveenbeiram@gmail.com
     *  [linkedin](https://www.linkedin.com/in/neveen-beiram-8a6b41192/)
 
 
