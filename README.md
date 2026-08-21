@@ -6,7 +6,7 @@ specifications for websites. Aiming to take on new challenges
 and utilize my coding and debugging skills for developing new features
 and enhance the overall user experience.
 --> 
-[Resume](https://drive.google.com/file/d/1KPSkm8rjAfeE_KTu9mwsA4UZofOgdgH2/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1cNzhIkPl4bAPoOJ0j9cw1mb8h5XWvwiy/view?usp=sharing)
 
 
 
